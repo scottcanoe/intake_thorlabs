@@ -1,0 +1,6 @@
+dask
+fsspec
+h5py
+intake
+numpy
+pandas
